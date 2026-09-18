@@ -18,10 +18,11 @@ the dataset from scratch.
 
 ## Preview
 
-![Z color](docs/images/preview_z.png)
-![NIR intensity](docs/images/preview_nir.png)
 ![BEV height](docs/images/bev_height.png)
+
 ![BEV NIR](docs/images/bev_nir.png)
+
+![Cinema 4D scene](docs/images/Scene.png)
 
 <!-- Place your PNG previews in docs/images/ with these names -->
 
