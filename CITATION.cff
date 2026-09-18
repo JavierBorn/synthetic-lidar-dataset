@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: Synthetic LiDAR Dataset Generator
+message: If you use this dataset, please cite it.
+type: software
+authors:
+  - family-names: Javier
+    given-names: ""
+license: MIT

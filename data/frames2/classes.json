@@ -1,0 +1,89 @@
+{
+  "classes_by_id": {
+    "0": "sensor",
+    "1": "car",
+    "2": "building",
+    "3": "tree",
+    "4": "sign",
+    "5": "road",
+    "6": "pole",
+    "7": "person",
+    "8": "bike",
+    "9": "terrain"
+  },
+  "objects_in_scene": {
+    "Building_Matrix_LiDAR": 2,
+    "Tree_Matrix_LiDAR": 3,
+    "Car_Matrix_LiDAR": 1,
+    "Road_Matrix_LiDAR": 5,
+    "Pole_Matrix_LiDAR": 6,
+    "Person_Car_Matrix_LiDAR": 7
+  },
+  "materials_by_class": {
+    "2": [
+      {
+        "object": "Building_Matrix_LiDAR",
+        "material": "Building",
+        "found_on": "obj",
+        "roughness": 0.85,
+        "reflection_strength": 0.4,
+        "reflectance_proxy": 0.23
+      }
+    ],
+    "3": [
+      {
+        "object": "Tree_Matrix_LiDAR",
+        "material": "Tree",
+        "found_on": "obj",
+        "roughness": 0.95,
+        "reflection_strength": 0.2,
+        "reflectance_proxy": 0.105
+      }
+    ],
+    "1": [
+      {
+        "object": "Car_Matrix_LiDAR",
+        "material": "Car",
+        "found_on": "obj",
+        "roughness": 0.15,
+        "reflection_strength": 0.9,
+        "reflectance_proxy": 0.8325
+      }
+    ],
+    "5": [
+      {
+        "object": "Road_Matrix_LiDAR",
+        "material": "Road",
+        "found_on": "obj",
+        "roughness": 0.95,
+        "reflection_strength": 0.1,
+        "reflectance_proxy": 0.0525
+      }
+    ],
+    "6": [
+      {
+        "object": "Pole_Matrix_LiDAR",
+        "material": "Pole",
+        "found_on": "obj",
+        "roughness": 0.75,
+        "reflection_strength": 0.85,
+        "reflectance_proxy": 0.5312
+      }
+    ],
+    "7": [
+      {
+        "object": "Person_Car_Matrix_LiDAR",
+        "material": "Person",
+        "found_on": "obj",
+        "roughness": 0.7,
+        "reflection_strength": 0.3,
+        "reflectance_proxy": 0.195
+      }
+    ]
+  },
+  "metadata": {
+    "export_version": "2.0",
+    "has_materials": true,
+    "nir_wavelength_nm": 905
+  }
+}
