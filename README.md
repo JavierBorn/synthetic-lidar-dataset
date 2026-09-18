@@ -16,6 +16,14 @@ the dataset from scratch.
 
 ---
 
+## 🔗 Live Demo
+
+**https://javierborn.github.io/synthetic-lidar-dataset/**
+
+Interactive 3D animations, single frames and BEV — right in your browser.
+
+---
+
 ## Preview
 
 ![BEV height](docs/images/bev_height.png)
@@ -23,8 +31,6 @@ the dataset from scratch.
 ![BEV NIR](docs/images/bev_nir.png)
 
 ![Cinema 4D scene](docs/images/Scene.png)
-
-<!-- Place your PNG previews in docs/images/ with these names -->
 
 ---
 
